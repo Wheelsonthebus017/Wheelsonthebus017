@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main(){ 
+cout << "to my number 1 Nigga" << endl;
+cout << "sherman" <<
+endl; 
+cout << " mus mag ML" <<
+endl;								
+cout << "           " <<  
+endl;
+cout << "open na " <<
+endl;
+cout << "mus mag minecraft na sana lugod niger" << 
+endl; 
+return 0; 
+}  
